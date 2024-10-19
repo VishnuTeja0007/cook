@@ -1,0 +1,27 @@
+body{
+    background-color: #eee;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+#images-div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5%;
+}
+.row{
+    gap: 5%;
+}
+.women-cook{
+    height: auto ;
+    width: 30vw;
+
+}
+label{
+    font-weight: bold;
+}
